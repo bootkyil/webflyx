@@ -1,9 +1,5 @@
-00000000: 7801 958d 410e c220 1045 5d73 8ad9 9b34  x...A.. .E]s...4
-00000010: 8030 6063 8c1e 6580 2112 6d49 ea68 e2ed  .0`c..e.!.mI.h..
-00000020: 6dbd 817f f5df e2bf 9ffb 3435 0113 cc4e  m.........45...N
-00000030: 1666 f0c9 9ae2 aa41 7249 07c2 5cd8 d3c1  .f.....ArI..\...
-00000040: 3a6b 62a8 489e 3026 8dba 2a7a c9ad 2f90  :kb.H.0&..*z../.
-00000050: 7a97 fba7 3de0 b4b5 c2ef cb46 43eb e7d5  z...=......FC...
-00000060: 8921 1ea3 0e0e f67a 8dca bf2f e1ff 56ea  .!.....z.../..V.
-00000070: 3a02 9502 b9cf c2b3 3c87 a9a8 2ff3 4237  :.......<.../.B7
-00000080: 97                                       .
+# contents
+
+- titles.md: The movie titles in the WebFlyx collection
+- classics.csv: A comma-separated list of classic movies
+- quotes: A directory of files containing memorable quotes from movies
